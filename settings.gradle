@@ -1,0 +1,4 @@
+rootProject.name='Shire'
+include ':app'
+include ':bitpanda-api-wrapper'
+include ':exhange-common'
